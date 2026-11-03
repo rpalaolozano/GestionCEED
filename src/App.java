@@ -3,5 +3,6 @@ public class App {
         System.out.println("Bienvenido a la app del CEED");
         System.out.println("Curso 26/27");
         System.out.println("LM");
+        System.out.println("ED");
     }
 }
